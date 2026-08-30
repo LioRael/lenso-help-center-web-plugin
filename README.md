@@ -30,7 +30,7 @@ auth_assertion_public_key = "<URL-safe-base64 Ed25519 public key>"
 Bind exactly one provider for each required Capability:
 
 - `lenso.auth@1` descriptor `1.0.0`
-- `lenso.knowledge-base@1` descriptor `1.0.0`
+- `lenso.knowledge-base@1` descriptor `1.1.0`
 - `lenso.support-intake@1` descriptor `1.0.0`
 - `lenso.support-attachment@1` descriptor `1.1.0`
 
