@@ -1180,7 +1180,7 @@ mod tests {
             required,
             vec![
                 ("lenso.auth@1", "1.0.0", "one"),
-                ("lenso.knowledge-base@1", "1.0.0", "one"),
+                ("lenso.knowledge-base@1", "1.1.0", "one"),
                 ("lenso.support-attachment@1", "1.1.0", "one"),
                 ("lenso.support-intake@1", "1.0.0", "one"),
             ]

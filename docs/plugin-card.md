@@ -22,7 +22,7 @@ Removing its App Instance removes the Help Center routes and UI. Knowledge Base,
 - Root slot: `web`
 - Provides: `lenso.http.endpoint@1` descriptor `1.1.0`
 - Requires exactly one: `lenso.auth@1` `1.0.0`
-- Requires exactly one: `lenso.knowledge-base@1` `1.0.0`
+- Requires exactly one: `lenso.knowledge-base@1` `1.1.0`
 - Requires exactly one: `lenso.support-intake@1` `1.0.0`
 - Requires exactly one: `lenso.support-attachment@1` `1.1.0`
 - Configuration: required immutable `organization_id`, `auth_issuer`, and Auth assertion public key
