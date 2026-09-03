@@ -6,7 +6,7 @@ rust-version = "1.94"
 license = "MIT"
 description = "Public, job-first Help Center Web surface for a Lenso Support App."
 repository = "https://github.com/LioRael/lenso-help-center-web-plugin"
-publish = false
+publish = true
 
 [package.metadata.lenso]
 plugin-id = "lenso.help-center.web"
